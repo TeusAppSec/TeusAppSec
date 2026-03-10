@@ -47,7 +47,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=secteusgit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=secteusgit&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/secteusgit/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/secteusgit/secteusgit/output/snake.svg" alt="Snake animation" />
 
 </div>
 
