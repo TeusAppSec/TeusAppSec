@@ -47,9 +47,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=secteusgit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=secteusgit&theme=github_dark)
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=secteusgit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/secteusgit/secteusgit/output/snake.svg" alt="Snake animation" />
 
