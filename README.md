@@ -47,8 +47,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=secteusgit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=secteusgit&theme=github_dark)
 
-
 </div>
+
+---
+
+<div alinhar=centro>
 
 <img src="https://raw.githubusercontent.com/secteusgit/secteusgit/output/snake.svg" alt="Snake animation" />
 
