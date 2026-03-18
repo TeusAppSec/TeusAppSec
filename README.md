@@ -23,10 +23,6 @@
 🤝 Aberto a colaborações e projetos na área de segurança.
 
 
-<div align="start">
-
- ![](https://komarev.com/ghpvc/?username=secteusgit&style=flat&color=brightgreen)
-
  </div>
 
 <br clear="both">
