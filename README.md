@@ -29,14 +29,19 @@
 
  </div>
 
- <div align="start">
+<br clear="both">
 
- <a href="mailto:simaomateus69@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/teussimao?igsh=MXBtNTU3enI4MWNyNg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKTRGi7oAS0mJkVHbLRslRA%3D%3D) 
-<a href="https://t.me/teussimao" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+5511917573194/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
+<div align="left">
+  <a href="https://www.linkedin.com/in/mateus-sim%C3%A3o?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B02ZTOgInR0ikdpdhFqpWhA%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/teussimao?igsh=MXBtNTU3enI4MWNyNg%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:simaomateus69@gmail.com?subject=Link do github &body=" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
 </div>
-
 
 
 <div align="center">
