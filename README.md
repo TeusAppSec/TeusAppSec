@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Mateus Simão</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Application+Security+Engineer+in+progress;DevSecOps+%7C+Python+%7C+APIs;Building+Secure+Systems+%F0%9F%94%90;Breaking+Things+to+Learn+%F0%9F%92%A3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Seguran%C3%A7a+de+Aplica%C3%A7%C3%B5es+em+evolu%C3%A7%C3%A3o;DevSecOps+%7C+Python+%7C+APIs;Construindo+e+Protegendo+Sistemas;Pensando+como+atacante+%F0%9F%94%90" />
 </p>
 
 ---
@@ -12,27 +12,27 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-💻 I build backend applications and secure them from real-world attacks
-🔐 Focused on **Application Security & DevSecOps**
-🧠 Learning both **offensive and defensive security**
-⚙️ Automating security in development pipelines
+💻 Desenvolvo aplicações backend e aplico segurança contra ataques reais
+🔐 Focado em Segurança de Aplicações (AppSec) e DevSecOps
+🧠 Estudando segurança ofensiva e defensiva
+⚙️ Automatizando segurança em pipelines de desenvolvimento
 
 ---
 
-## 🚀 Current Mission
+## 🚀 Objetivo atual
 
 ```diff
-+ Build secure APIs
-+ Exploit vulnerabilities (SQLi, XSS, IDOR)
-+ Fix and harden applications
-+ Automate security testing (DevSecOps)
++ Construir APIs seguras
++ Explorar vulnerabilidades (SQLi, XSS, IDOR)
++ Corrigir e fortalecer aplicações
++ Automatizar testes de segurança (DevSecOps)
 ```
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tecnologias
 
 <p align="center">
 
@@ -42,17 +42,17 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projetos em destaque
 
 ```bash
-vulnerable-api-appsec        # intentionally vulnerable API
-secure-api-best-practices    # secure coding implementation
-simple-security-scanner      # automation tool
+vulnerable-api-appsec        # API com vulnerabilidades intencionais para estudo
+secure-api-best-practices    # Implementação segura (boas práticas)
+simple-security-scanner      # Ferramenta de automação de segurança
 ```
 
 ---
 
-## 📊 Stats
+## 📊 Estatisticas
 
 <p align="center">
 
@@ -68,7 +68,7 @@ simple-security-scanner      # automation tool
 
 </p>
 
-## 📫 Contact
+## 📫 Contato
 
 <p align="center">
 
