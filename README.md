@@ -71,13 +71,13 @@ simple-security-scanner      # automation tool
   <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/teussimao">
-  <img src="https://img.shields.io/badge/Instagram-00FF9C?style=for-the-badge&logo=instagram&logoColor=black"/>
-</a>
-
 <a href="mailto:simaomateus69@gmail.com">
   <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
+
+<a href="https://www.instagram.com/teussimao">
+  <img src="https://img.shields.io/badge/Instagram-00FF9C?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>  
 
 </p>
 
