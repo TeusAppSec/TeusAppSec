@@ -55,8 +55,13 @@ simple-security-scanner      # automation tool
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeusAppSec&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeusAppSec&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeusAppSec&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeusAppSec&theme=github-dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeusAppSec&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C&text_color=ffffff"/>
+
 </p>
 
 ---
