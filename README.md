@@ -23,7 +23,7 @@
 
 ## 🚀 Objetivo atual
 
-```diff
+```bash
 + Construir APIs seguras
 + Explorar vulnerabilidades (SQLi, XSS, IDOR)
 + Corrigir e fortalecer aplicações
