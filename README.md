@@ -76,7 +76,7 @@ simple-security-scanner      # Ferramenta de automação de segurança
   <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:simaomateus69@gmail.com">
+<a href="mailto:teussimao@zohomail.com">
   <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
