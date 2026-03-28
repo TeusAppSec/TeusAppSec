@@ -56,11 +56,11 @@ simple-security-scanner      # Ferramenta de automação de segurança
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeusAppSec&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TeusAppSec&theme=midnight-purple&show_icons=true)"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeusAppSec&theme=github-dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<img src="https://streak-stats.demolab.com?user=TeusAppSec&theme=midnight-purple&hide_border=falso&border_radius=4&locale=pt_BR&short_numbers=falso"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeusAppSec&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeusAppSec&layout=compact&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=ffffff"/>
 
 </p>
 
