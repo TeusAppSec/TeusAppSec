@@ -60,7 +60,7 @@ simple-security-scanner      # Ferramenta de automação de segurança
 
 <img src="https://streak-stats.demolab.com?user=TeusAppSec&theme=midnight-purple&hide_border=falso&border_radius=4&locale=pt_BR&short_numbers=falso"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeusAppSec&layout=compact&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=ffffff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeusAppSec&layout=compact&theme=midnight-purple&hide_border_=true"/>
 
 </p>
 
