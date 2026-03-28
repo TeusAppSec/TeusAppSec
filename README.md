@@ -73,15 +73,15 @@ simple-security-scanner      # Ferramenta de automação de segurança
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mateus-sim%C3%A3o">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-280137?style=for-the-badge&logo=linkedin&logoColor=ehite"/>
 </a>
 
 <a href="mailto:teussimao@zohomai.com">
-  <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Email-280137?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/teussimao">
-  <img src="https://img.shields.io/badge/Instagram-00FF9C?style=for-the-badge&logo=instagram&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Instagram-280137?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>  
 
 </p>
